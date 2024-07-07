@@ -18,4 +18,4 @@ print(is_power_of_two(-16))  # Output: False
 # is halved (or approximately halved in terms of bits shifted), leading to a logarithmic number of steps.
 
 # Space Complexity: O(log n)
-# The space complexity is also O(logn) due to the recursion stack. This is because the max depth of the recursion stack is logarithmic in relation to the input size n
+## The space complexity is also O(logn) due to the recursion stack. This is because the max depth of the recursion stack is logarithmic in relation to the input size n
